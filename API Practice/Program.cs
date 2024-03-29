@@ -5,9 +5,6 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 
-
-// Pokemon p = new Pokemon(123, "Pikachu", new List<string>(), 33);
-
 namespace API_Practice
 {
     class Program
